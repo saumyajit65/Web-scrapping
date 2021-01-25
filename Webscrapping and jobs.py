@@ -41,17 +41,5 @@ res = re.findall(reg_str, test_str)
 # printing result 
 print("The Strings extracted : " + str(res)) 
 
-    
-
-
-Number
-+12019425528
-
-
-SID
-AC81d2c9b4446a6fcf9432fd3cf1ec34db
-
-token
-521d767126aab7e2312c7a417c6b075c
 
 """
